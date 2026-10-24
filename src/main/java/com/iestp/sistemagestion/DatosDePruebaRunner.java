@@ -1,3 +1,4 @@
+/*/ esrte es un comentario*/
 package com.iestp.sistemagestion;
 
 import com.iestp.sistemagestion.modelo.Cliente;
